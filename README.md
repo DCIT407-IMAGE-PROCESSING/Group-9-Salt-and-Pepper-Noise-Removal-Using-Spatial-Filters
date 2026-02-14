@@ -114,6 +114,9 @@ Ensure Python 3.12 is installed.
 
 Install required libraries in the project root directory:
 
+```
+pip install -r requirements.txt
+```
 
 ---
 
