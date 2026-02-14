@@ -112,6 +112,18 @@ These results indicate that the classical median filter remains highly effective
 
 Ensure Python 3.12 is installed.
 
+It is recommended to do this in a virtual environment for best practices.
+
+In the same root directory, before installing the dependedcies you can run
+
+```
+py -3.12 -m venv myenv
+```
+
+The above is for python 3.12 is that is installed, if you want to use other python versinos, replace the `3.12` with the version you want
+
+And if you only have one base and don't know the version, use `python` instead of `py`
+
 Install required libraries in the project root directory:
 
 ```
