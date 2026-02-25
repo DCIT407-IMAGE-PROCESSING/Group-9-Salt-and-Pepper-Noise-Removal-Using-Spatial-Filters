@@ -1,5 +1,4 @@
-# For best reporducability, we specify the exact versions of the dependencies. You can install them using pip:
-# We also used python version 3.12
+
 
 numpy>=1.26.0
 opencv-python>=4.9.0
